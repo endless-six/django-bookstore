@@ -7,6 +7,8 @@ name = "douban"
 django = "*"
 psycopg2-binary = "*"
 pillow = "*"
+django-crispy-forms = "*"
+django-allauth = "*"
 
 [dev-packages]
 
